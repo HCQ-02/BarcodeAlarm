@@ -1,0 +1,2 @@
+﻿rootProject.name = 'BarcodeAlarm'
+include ':app'
